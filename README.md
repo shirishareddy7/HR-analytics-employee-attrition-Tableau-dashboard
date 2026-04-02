@@ -55,5 +55,4 @@ It helps HR teams explore workforce trends visually and make informed decisions 
 ---
 
 ## 📷 Dashboard Preview
-[Tableau Dashboard](<img width="1344" height="764" alt="Screenshot 2026-03-29 103858" src="https://github.com/user-attachments/assets/5c16595f-41d6-4b4f-b42f-61cb1eba28f0" />
-)
+[Tableau Dashboard](<img width="1344" height="764" alt="Screenshot 2026-03-29 103858" src="https://github.com/user-attachments/assets/5c16595f-41d6-4b4f-b42f-61cb1eba28f0" />)
