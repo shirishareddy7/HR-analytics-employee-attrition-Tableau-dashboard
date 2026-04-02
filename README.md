@@ -1,6 +1,6 @@
 # 📊 HR Analytics – Employee Attrition & Retention Dashboard (Tableau)
 
-## 🧾 Project Overview
+## 🧾 Project Objective
 This project presents an interactive HR Analytics dashboard built using Tableau to analyze employee attrition and retention trends. It enables intuitive exploration of workforce data through visual storytelling and interactive filters.
 
 ---
@@ -14,6 +14,7 @@ To use Tableau for analyzing employee data and uncover insights related to attri
 - HR_1 & HR_2 datasets  
 - Data Type: Excel (imported into Tableau)  
 - Dataset Size: 50K+ records each  
+-<a href="https://github.com/shirishareddy7/HR-analytics-employee-attrition-Tableau-dashboard/blob/main/HR%20Analytics%20Project%20-%20Tableau%20(1).twbx">Dataset</a>
 
 ---
 
@@ -36,7 +37,7 @@ To use Tableau for analyzing employee data and uncover insights related to attri
 
 ---
 
-## 📌 Key Insights
+## 📌 Project Insights
 - Attrition rate remains consistently high (~50%) across departments  
 - Lower income groups show slightly higher attrition trends  
 - Employees with fewer promotions tend to leave more  
